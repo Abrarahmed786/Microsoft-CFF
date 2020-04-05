@@ -1,7 +1,9 @@
 # Microsoft-CFF
-## PHOENIX
+## Team - PHOENIX
 #### Smart Traffic Management system for Quick Commute and carbon reduction.
 ### Problem Statement 
 ##### We know that transport represents the sector with the fastest growing greenhouse gas emissions around the world. A car produce more carbon dioxide during acceleration and a accelerating car will pollute more than a non - accelerating car. We're going to develop a solution where the user app will inform the driver according to the configuration of the car that how much speed is safe with respect to the environment.And apart from this we're going to develop a solution where it will sync the coordination of traffic lights, due to uncoordinated traffic every car have to face scenario where it have to stop and again accelerate due to this it increases the quantity of the carbon emissions.
 ### Solution
 ##### Our app and solution is easy to apply in traffic system by selecting the vehicle type and model and after that our app will notify the user that certain speed of your vehicle is Eco-Friendly if the vehicle exceed the limit of speed our user app will notify with a buzzer so the user will be informed that the speed is crossing the Eco-Friendly limit. And the other solution which is related to the traffic light system it will provide best possible available synchronization for the traffic light system so the emission of the carbon due to the repetition of the acceleration and deceleration of vehicle will reduce.
+### How to access this project?
+##### In this repository we have a compressed .ZIP file named "My Application". Please download this repository and extract that file. After extracting this files you will get a app-debug.apk. Please install it into your device. After Installation please select the vehicle type. Than please select your vehicle from the list and now drive your vehicle. Whenever you'll excide your speed limit our App PHOENIX will inform you to reduce your speed. And with this application you'll be able you control the carbon emmition. We've attach a PPT for better understandings of this project. :)
